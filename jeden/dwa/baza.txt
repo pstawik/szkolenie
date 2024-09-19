@@ -1,2 +1,3 @@
 baza
 zmiana 2
+zmiana 3 w bazie
