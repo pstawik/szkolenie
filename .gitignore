@@ -1,0 +1,9 @@
+# Komentarz
+# * dowolny ciąg
+# ** dowolny ciąg w dowolnym katalogu
+# ? jeden dowolny znak
+# ! negacja
+# / oznacza katalog
+
+# ignoruje wszystko w katalogu secret
+/jeden/dwa/secret/*
